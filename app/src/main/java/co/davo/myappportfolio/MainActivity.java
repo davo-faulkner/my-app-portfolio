@@ -19,36 +19,42 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //Spotify button onClick method
     public void displaySpotifyToast(View v) {
         Toast toast = Toast.makeText(this, "This button will launch my spotify app!",
                 Toast.LENGTH_SHORT);
         toast.show();
     }
 
+    //Scores button onClick method
     public void displayScoresToast(View v) {
         Toast toast = Toast.makeText(this, "This button will launch my scores app!",
                 Toast.LENGTH_SHORT);
         toast.show();
     }
 
+    //Library button onClick method
     public void displayLibraryToast(View v) {
         Toast toast = Toast.makeText(this, "This button will launch my library app!",
                 Toast.LENGTH_SHORT);
         toast.show();
     }
 
+    //Build it button onClick method
     public void displayBuildItToast(View v) {
         Toast toast = Toast.makeText(this, "This button will launch my build it app!",
                 Toast.LENGTH_SHORT);
         toast.show();
     }
 
+    //XYZ button onClick method
     public void displayXyzToast(View v) {
         Toast toast = Toast.makeText(this, "This button will launch my xyz reader app!",
                 Toast.LENGTH_SHORT);
         toast.show();
     }
 
+    //Capstone button onClick method
     public void displayCapstoneToast(View v) {
         Toast toast = Toast.makeText(this, "This button will launch my capstone app!",
                 Toast.LENGTH_SHORT);
