@@ -28,39 +28,38 @@
         android:textSize="24sp"/>
 
     <Button
-        style="@style/ButtonLayoutStyle"
+        style="@style/ButtonLayoutStyleLight"
         android:id="@+id/spotify_streamer_button"
         android:onClick="displaySpotifyToast"
         android:text="@string/spotify_streamer"/>
 
     <Button
-        style="@style/ButtonLayoutStyle"
+        style="@style/ButtonLayoutStyleLight"
         android:id="@+id/scores_app_button"
         android:onClick="displayScoresToast"
         android:text="@string/scores_app"/>
 
     <Button
-        style="@style/ButtonLayoutStyle"
+        style="@style/ButtonLayoutStyleLight"
         android:id="@+id/library_app_button"
         android:onClick="displayLibraryToast"
         android:text="@string/library_app"/>
 
     <Button
-        style="@style/ButtonLayoutStyle"
+        style="@style/ButtonLayoutStyleLight"
         android:id="@+id/build_it_bigger_button"
         android:onClick="displayBuildItToast"
         android:text="@string/build_it_bigger"/>
 
     <Button
-        style="@style/ButtonLayoutStyle"
+        style="@style/ButtonLayoutStyleLight"
         android:id="@+id/xyz_reader_button"
         android:onClick="displayXyzToast"
         android:text="@string/xyz_reader"/>
 
     <Button
-        style="@style/ButtonLayoutStyle"
+        style="@style/ButtonLayoutStyleDark"
         android:layout_marginBottom="24dp"
-        android:textColor="@color/buttonTextAccent"
         android:id="@+id/capstone_my_own_app_button"
         android:onClick="displayCapstoneToast"
         android:text="@string/capstone_my_own_app"/>

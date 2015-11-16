@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015. David Faulkner. All rights reserved.
+  -->
+
+<!--    Following lines added to make custom button colors available to API 15
+        code from: http://stackoverflow.com/questions/1521640/standard-android-button-with-
+        a-different-color-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="true" >
+        <shape>
+            <gradient
+                android:startColor="#0288D1"
+                android:endColor="#03A9F4"
+                android:angle="270" />
+            <corners
+                android:radius="3dp" />
+        </shape>
+    </item>
+
+    <item android:state_focused="true" >
+        <shape>
+            <gradient
+                android:endColor="#0288D1"
+                android:startColor="#03A9F4"
+                android:angle="270" />
+            <corners
+                android:radius="3dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <gradient
+                android:endColor="#0288D1"
+                android:startColor="#03A9F4"
+                android:angle="270" />
+            <corners
+                android:radius="3dp" />
+        </shape>
+    </item>
+</selector>

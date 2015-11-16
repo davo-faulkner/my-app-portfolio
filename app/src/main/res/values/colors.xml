@@ -7,5 +7,5 @@
     <color name="colorPrimary">#FF9800</color>
     <color name="colorPrimaryDark">#F57C00</color>
     <color name="colorAccent">#448AFF</color>
-    <color name="buttonTextAccent">#FFFFFF</color>
+    <color name="buttonText">#FFFFFF</color>
 </resources>
