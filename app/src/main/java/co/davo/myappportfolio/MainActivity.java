@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2015. David Faulkner. All rights reserved.
+ */
+
 package co.davo.myappportfolio;
 
 import android.os.Bundle;

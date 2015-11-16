@@ -1,3 +1,7 @@
+<!--
+  ~ Copyright (c) 2015. David Faulkner. All rights reserved.
+  -->
+
 <resources>
     <string name="app_name">My App Portfolio</string>
     <string name="action_settings">Settings</string>
