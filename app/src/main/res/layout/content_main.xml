@@ -60,7 +60,7 @@
     <Button
         style="@style/ButtonLayoutStyle"
         android:layout_marginBottom="24dp"
-        android:textColor="#FFFFFF"
+        android:textColor="@color/buttonTextAccent"
         android:id="@+id/capstone_my_own_app_button"
         android:onClick="displayCapstoneToast"
         android:text="@string/capstone_my_own_app"/>
