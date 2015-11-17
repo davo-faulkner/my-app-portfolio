@@ -50,7 +50,7 @@
         <!--    Following lines added to make custom button colors available to API 15
                 code from: http://stackoverflow.com/questions/1521640/standard-android-button-with-
                 a-different-color-->
-        <item name="android:background">@drawable/custom_button_dark</item>
+        <item name="android:background">@drawable/custom_button_accent</item>
     </style>
 
 </resources>

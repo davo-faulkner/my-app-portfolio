@@ -8,4 +8,8 @@
     <color name="colorPrimaryDark">#F57C00</color>
     <color name="colorAccent">#448AFF</color>
     <color name="buttonText">#FFFFFF</color>
+    <color name="buttonGradientStart">#2196F3</color>
+    <color name="buttonGradientEnd">#1976D2</color>
+    <color name="buttonAccentGradientStart">#FF9800</color>
+    <color name="buttonAccentGradientEnd">#F57C00</color>
 </resources>
