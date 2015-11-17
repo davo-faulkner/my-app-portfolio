@@ -21,7 +21,7 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 
-    <style name="ButtonLayoutStyleLight">
+    <style name="ButtonLayoutStyle">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginLeft">80dp</item>
@@ -37,7 +37,7 @@
         <item name="android:background">@drawable/custom_button</item>
     </style>
 
-    <style name="ButtonLayoutStyleDark">
+    <style name="ButtonLayoutAccentStyle">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginLeft">80dp</item>
